@@ -1,3 +1,5 @@
+package ru.academits.Subbotina.range;
+
 import ru.academits.Subbotina.range.Range;
 
 import java.util.Arrays;
